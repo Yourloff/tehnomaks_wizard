@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-container {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 300px;
+}
+
+.btn-start {
+    font-family: Lato, Arial, sans-serif;
+    background: rgb(255, 99, 71);
+    color: white;
+    border-radius: 5%;
+    padding: 15px;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
