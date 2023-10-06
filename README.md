@@ -38,7 +38,7 @@
     ```
 1. Зайдите в корневой каталог проекта
     ```sh
-    cd velflix
+    cd tehnomaks_wizard
     ```
 
 1. Скопируйте файл .env.example в файл .env.
@@ -73,7 +73,7 @@
     php artisan migrate
     ```
 
-1. Запустить сервер
+1. Запустить локальный сервер
     ```sh
     php artisan serve
     ``` 
